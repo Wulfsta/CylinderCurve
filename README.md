@@ -10,7 +10,7 @@ that had an elliptic cutout for the ear.
 
 ## Raw:
 
-Here is the raw, for those not working in a Jupyter notebook:
+Here is the raw text, for those not working in a Jupyter notebook:
 
 ```sage
 # Summary: A simple approximation of the curve resulting from cutting an elliptic cylinder at some
